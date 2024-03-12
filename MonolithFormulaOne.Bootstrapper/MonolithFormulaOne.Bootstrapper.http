@@ -1,0 +1,6 @@
+@MonolithFormulaOne.Bootstrapper_HostAddress = http://localhost:5117
+
+GET {{MonolithFormulaOne.Bootstrapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
